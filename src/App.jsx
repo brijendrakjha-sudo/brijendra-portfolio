@@ -1,11 +1,13 @@
-import Navbar from "./components/Navbar";
-import Home from "./components/Home";
-import About from "./components/About";
-import Skills from "./components/Skills";
-import Projects from "./components/Projects";
-import Contact from "./components/Contact";
+
+import Navbar from "./components/navbar.jsx";
+import Home from "./components/home.jsx";
+import About from "./components/About.jsx";
+import Skills from "./components/Skills.jsx";
+import Projects from "./components/Projects.jsx";
+import Contact from "./components/contact.jsx";
 
 import "./App.css";
+
 
 function App() {
   return (
